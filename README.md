@@ -29,4 +29,4 @@ This is a [hyperlink](https://github.com/georgiosouzounis) to the instructor's g
 ## Documentation
 
 - [Read here](https://guides.github.com/features/mastering-markdown/)
-- [and here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [and here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)...
